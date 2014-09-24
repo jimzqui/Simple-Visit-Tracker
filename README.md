@@ -17,7 +17,7 @@ easy to use.
 ## DATABASE
 
 1. Export database dump from sql/ dir
-2. Modify database settings in app/Config/datase.php
+2. Modify database settings in app/Config/database.php
 
 
 ## INSTALLATION
