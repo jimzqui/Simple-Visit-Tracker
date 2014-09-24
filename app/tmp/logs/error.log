@@ -1,0 +1,1640 @@
+2014-04-30 23:18:42 Error: Fatal Error (4): syntax error, unexpected '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 59]
+2014-04-30 23:18:42 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 59, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 59, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 08:20:20 Error: Fatal Error (1): Maximum execution time of 300 seconds exceeded in [E:\wamp\www\worldmap\lib\Cake\Network\CakeSocket.php, line 303]
+2014-05-01 08:20:20 Error: [FatalErrorException] Maximum execution time of 300 seconds exceeded
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'E:\wamp\www\wor...', 303)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'E:\wamp\www\wor...', 303, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'E:\wamp\www\wor...', 303, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 08:21:58 Error: Fatal Error (4): syntax error, unexpected '$timestamp' (T_VARIABLE) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 60]
+2014-05-01 08:21:58 Error: [FatalErrorException] syntax error, unexpected '$timestamp' (T_VARIABLE)
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 60, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 60, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 08:26:02 Error: Fatal Error (4): syntax error, unexpected ';', expecting ']' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 25]
+2014-05-01 08:26:02 Error: [FatalErrorException] syntax error, unexpected ';', expecting ']'
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 25, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 25, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 11:15:45 Error: Fatal Error (4): syntax error, unexpected 'file_put_contents' (T_STRING) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 86]
+2014-05-01 11:15:45 Error: [FatalErrorException] syntax error, unexpected 'file_put_contents' (T_STRING)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 86)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 86, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 86, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 11:15:52 Error: Fatal Error (4): syntax error, unexpected 'file_put_contents' (T_STRING) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 86]
+2014-05-01 11:15:52 Error: [FatalErrorException] syntax error, unexpected 'file_put_contents' (T_STRING)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 86)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 86, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 86, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 11:55:44 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 80]
+2014-05-01 11:55:44 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 80)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 80, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 80, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 11:55:50 Error: Fatal Error (1): Class name must be a valid object or a string in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 77]
+2014-05-01 11:55:50 Error: [FatalErrorException] Class name must be a valid object or a string
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class name must...', 'E:\wamp\www\wor...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class name must...', 'E:\wamp\www\wor...', 77, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class name must...', 'E:\wamp\www\wor...', 77, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:19:00 Error: Fatal Error (4): syntax error, unexpected ')' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 30]
+2014-05-01 12:19:00 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 30)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 30, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 30, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:29:07 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 66]
+2014-05-01 12:29:07 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 66)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 66, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 66, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:29:44 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 45]
+2014-05-01 12:29:44 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 45, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 45, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:37:28 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 51]
+2014-05-01 12:37:28 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 51, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 51, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:37:31 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 51]
+2014-05-01 12:37:31 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 51, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 51, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:52:27 Error: Fatal Error (4): syntax error, unexpected '-', expecting '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 43]
+2014-05-01 12:52:27 Error: [FatalErrorException] syntax error, unexpected '-', expecting '}'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:52:29 Error: Fatal Error (4): syntax error, unexpected '-', expecting '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 43]
+2014-05-01 12:52:29 Error: [FatalErrorException] syntax error, unexpected '-', expecting '}'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:52:53 Error: Fatal Error (4): syntax error, unexpected '$last' (T_VARIABLE), expecting '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 43]
+2014-05-01 12:52:53 Error: [FatalErrorException] syntax error, unexpected '$last' (T_VARIABLE), expecting '}'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:53:34 Error: Fatal Error (4): syntax error, unexpected '" . "' (T_CONSTANT_ENCAPSED_STRING), expecting '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 43]
+2014-05-01 12:53:34 Error: [FatalErrorException] syntax error, unexpected '" . "' (T_CONSTANT_ENCAPSED_STRING), expecting '}'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 43, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:04:50 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 40]
+2014-05-01 13:04:50 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 40, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 40, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:33:40 Error: [MissingActionException] Action DataController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'index',
+)
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:33:42 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:36:11 Error: [MissingActionException] Action DataController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'index',
+)
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:36:12 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:39:02 Error: [MissingActionException] Action DataController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'index',
+)
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:39:04 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 13:51:35 Error: [MissingControllerException] Controller class LoadController could not be found.
+Exception Attributes: array (
+  'class' => 'LoadController',
+  'plugin' => NULL,
+)
+Request URL: /load/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-01 13:51:36 Error: [MissingControllerException] Controller class LoadController could not be found.
+Exception Attributes: array (
+  'class' => 'LoadController',
+  'plugin' => NULL,
+)
+Request URL: /load/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-01 15:28:03 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 78]
+2014-05-01 15:28:03 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 78, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 78, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:28:05 Error: Fatal Error (4): syntax error, unexpected '=' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 78]
+2014-05-01 15:28:05 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 78, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 78, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:42:27 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 102]
+2014-05-01 15:42:27 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 102)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 102, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 102, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:50:49 Error: Fatal Error (64): Call-time pass-by-reference has been removed in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 73]
+2014-05-01 15:50:49 Error: [FatalErrorException] Call-time pass-by-reference has been removed
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 73)
+#1 [internal function]: ErrorHandler::handleError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 73, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Call-time pass-...', 'E:\wamp\www\wor...', 73, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:51:09 Error: Fatal Error (64): Call-time pass-by-reference has been removed in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 29]
+2014-05-01 15:51:09 Error: [FatalErrorException] Call-time pass-by-reference has been removed
+Request URL: /data/index
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:51:10 Error: Fatal Error (64): Call-time pass-by-reference has been removed in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 29]
+2014-05-01 15:51:10 Error: [FatalErrorException] Call-time pass-by-reference has been removed
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29)
+#1 [internal function]: ErrorHandler::handleError(64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Call-time pass-...', 'E:\wamp\www\wor...', 29, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 16:53:56 Error: Fatal Error (4): syntax error, unexpected '"\n\n"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 88]
+2014-05-01 16:53:56 Error: [FatalErrorException] syntax error, unexpected '"\n\n"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 88)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 88, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 88, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 19:42:48 Error: Fatal Error (4): syntax error, unexpected ':' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 138]
+2014-05-01 19:42:48 Error: [FatalErrorException] syntax error, unexpected ':'
+Request URL: /data/request?action=visit&website=marketing4restaurants.com&visitor=12345
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 138)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 138, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 138, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 19:43:06 Error: [MissingActionException] Action DataController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'js',
+)
+Request URL: /data/js/vendor/jquery-1.9.1.min.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 19:43:07 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 20:15:37 Error: [MissingActionException] Action DataController::request.png() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'request.png',
+)
+Request URL: /data/request.png?action=visit&website=marketing4restaurants.com&visitor=12345
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 20:15:39 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 21:15:05 Error: [MissingActionException] Action DataController::getLatLong() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'getLatLong',
+)
+Request URL: /data/getLatLong?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 23:53:44 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 23:54:39 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 23:54:49 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\push.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\push.ctp',
+)
+Request URL: /data/push?action=visit&website=marketing4restaurants.com&visitor=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:06 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 23:55:16 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\track.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\track.ctp',
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:22 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\track.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\track.ctp',
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:27 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\track.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\track.ctp',
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:28 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\push.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\push.ctp',
+)
+Request URL: /data/push?action=visit&website=marketing4restaurants.com&visitor=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:32 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\track.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\track.ctp',
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:55:33 Error: [MissingViewException] View file "E:\wamp\www\worldmap\app\View\Data\ip_info.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'E:\\wamp\\www\\worldmap\\app\\View\\Data\\ip_info.ctp',
+)
+Request URL: /data/ipInfo?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\View\View.php(459): View->_getViewFileName(NULL)
+#1 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#4 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 23:59:42 Error: Fatal Error (4): syntax error, unexpected 'autoRender' (T_STRING), expecting variable (T_VARIABLE) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 15]
+2014-05-01 23:59:42 Error: [FatalErrorException] syntax error, unexpected 'autoRender' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 15, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 15, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 23:59:46 Error: Fatal Error (4): syntax error, unexpected 'autoRender' (T_STRING), expecting variable (T_VARIABLE) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 15]
+2014-05-01 23:59:46 Error: [FatalErrorException] syntax error, unexpected 'autoRender' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 15, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 15, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 08:24:26 Error: Fatal Error (4): syntax error, unexpected '3' (T_LNUMBER), expecting ')' in [E:\wamp\www\worldmap\app\Model\Action.php, line 77]
+2014-05-02 08:24:26 Error: [FatalErrorException] syntax error, unexpected '3' (T_LNUMBER), expecting ')'
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 77)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 77, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 77, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:34:55 Error: Fatal Error (4): syntax error, unexpected '3' (T_LNUMBER), expecting ')' in [E:\wamp\www\worldmap\app\Model\Action.php, line 77]
+2014-05-02 09:34:55 Error: [FatalErrorException] syntax error, unexpected '3' (T_LNUMBER), expecting ')'
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 77)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 77, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 77, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:34:58 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:37:16 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('actions')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Action.php(16): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Action->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:37:18 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:41:03 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('actions')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Action.php(17): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Action->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:41:33 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:45:45 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('events')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Event.php(17): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Event->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:45:53 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:48:13 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('events')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Event.php(17): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Event->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:48:15 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:49:15 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('events')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Event.php(16): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(175): Event->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:49:16 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:55:50 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(801): Model->getDataSource()
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Model->__call('add', Array)
+#6 E:\wamp\www\worldmap\app\Controller\DataController.php(174): AppModel->add(Array)
+#7 [internal function]: DataController->push2()
+#8 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#11 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-02 09:55:54 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:56:36 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Track.php(16): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Track->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:56:37 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:56:40 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Track.php(16): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Track->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:56:42 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:57:23 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Track.php(17): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Track->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:57:25 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:58:16 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Track.php(16): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Track->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:58:17 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:58:48 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /data/push2?action=visit&source=marketing4restaurants.com&userip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\Database\Mysql.php(217): DboSource->_execute('SHOW TABLES FRO...')
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1129): Mysql->listSources()
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1350): Model->getDataSource()
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1534): Model->schema()
+#6 E:\wamp\www\worldmap\app\Model\Track.php(17): Model->create()
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(174): Track->add(Array)
+#8 [internal function]: DataController->push2()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-02 09:58:50 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 10:14:31 Error: Fatal Error (4): syntax error, unexpected ';' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 176]
+2014-05-02 10:14:31 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /data/test
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 176)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 176, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 176, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 10:14:32 Error: Fatal Error (4): syntax error, unexpected ';' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 176]
+2014-05-02 10:14:32 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /data/data/track2
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 176)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 176, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 176, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 10:20:28 Error: Fatal Error (4): syntax error, unexpected '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 162]
+2014-05-02 10:20:28 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 162)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 162, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 162, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 10:20:30 Error: Fatal Error (4): syntax error, unexpected '}' in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 162]
+2014-05-02 10:20:30 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /data/track2
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 162)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 162, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 162, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 11:56:13 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'womapstg_womapst\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 E:\wamp\www\worldmap\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 E:\wamp\www\worldmap\app\Model\Track.php(79): Model->find('all', Array)
+#8 E:\wamp\www\worldmap\app\Controller\DataController.php(46): Track->latest()
+#9 [internal function]: DataController->track()
+#10 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#13 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-05-02 12:49:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'womapstg_womapst\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 E:\wamp\www\worldmap\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 E:\wamp\www\worldmap\app\Model\Track.php(79): Model->find('all', Array)
+#8 E:\wamp\www\worldmap\app\Controller\DataController.php(46): Track->latest()
+#9 [internal function]: DataController->track()
+#10 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#13 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-05-02 12:50:10 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'womapstg_womapst\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 E:\wamp\www\worldmap\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 E:\wamp\www\worldmap\app\Model\Track.php(79): Model->find('all', Array)
+#8 E:\wamp\www\worldmap\app\Controller\DataController.php(46): Track->latest()
+#9 [internal function]: DataController->track()
+#10 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#13 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-05-02 13:57:01 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 190]
+2014-05-02 13:57:01 Error: [FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 190)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 190, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 190, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 13:57:04 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 190]
+2014-05-02 13:57:04 Error: [FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 190)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'E:\wamp\www\wor...', 190, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'E:\wamp\www\wor...', 190, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:21:41 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear') in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 189]
+2014-05-02 14:21:41 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '../vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear')
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:21:45 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:22:54 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear') in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 189]
+2014-05-02 14:22:54 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear')
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:22:56 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:26:29 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'Vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear') in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 189]
+2014-05-02 14:26:29 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'Vendor/autoload.php' (include_path='E:\wamp\www\worldmap\lib;.;E:\wamp\bin\php\php5.4.16\pear')
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', 'E:\wamp\www\wor...', 189, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:26:37 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:29:21 Error: Fatal Error (1): Class 'Reader' not found in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 193]
+2014-05-02 14:29:21 Error: [FatalErrorException] Class 'Reader' not found
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:30:58 Error: [MissingActionException] Action DataController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'js',
+)
+Request URL: /data/js/vendor/jquery-1.9.1.min.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:31:14 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:33:53 Error: Fatal Error (1): Class 'Reader' not found in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 193]
+2014-05-02 14:33:53 Error: [FatalErrorException] Class 'Reader' not found
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:34:03 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:35:18 Error: Fatal Error (1): Class 'Reader' not found in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 193]
+2014-05-02 14:35:18 Error: [FatalErrorException] Class 'Reader' not found
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Reader' ...', 'E:\wamp\www\wor...', 193, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:35:42 Error: [MissingActionException] Action DataController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'js',
+)
+Request URL: /data/js/vendor/jquery-1.9.1.min.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:35:45 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:37:09 Error: Fatal Error (1): Interface 'GeoIp2\ProviderInterface' not found in [E:\wamp\www\worldmap\app\Vendor\geoip2\geoip2\src\GeoIp2\Database\Reader.php, line 39]
+2014-05-02 14:37:09 Error: [FatalErrorException] Interface 'GeoIp2\ProviderInterface' not found
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Interface 'GeoI...', 'E:\wamp\www\wor...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Interface 'GeoI...', 'E:\wamp\www\wor...', 39, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Interface 'GeoI...', 'E:\wamp\www\wor...', 39, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:37:14 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 15:10:07 Error: [Exception] Unable to open file: E:\wamp\www\worldmap\app\Plugin\GeoIP\data\GeoIP.dat
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\Plugin\GeoIP\Lib\GeoIP.php(334): Net_GeoIP->open('E:\wamp\www\wor...', NULL)
+#1 E:\wamp\www\worldmap\app\Plugin\GeoIP\Lib\GeoIP.php(393): Net_GeoIP->__construct('E:\wamp\www\wor...', NULL)
+#2 E:\wamp\www\worldmap\app\Plugin\GeoIP\Model\GeoIpLocation.php(64): Net_GeoIP::getInstance('E:\wamp\www\wor...')
+#3 E:\wamp\www\worldmap\app\Controller\DataController.php(190): GeoIpLocation->find('122.148.126.234')
+#4 [internal function]: DataController->geoIp()
+#5 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#6 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#8 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-05-02 15:10:10 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 15:11:09 Error: [Exception] Unable to open file: E:\wamp\www\worldmap\app\Plugin\GeoIP\data\GeoIP.dat
+Request URL: /data/geoIp?ip=122.148.126.234
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\Plugin\GeoIP\Lib\GeoIP.php(334): Net_GeoIP->open('E:\wamp\www\wor...', NULL)
+#1 E:\wamp\www\worldmap\app\Plugin\GeoIP\Lib\GeoIP.php(393): Net_GeoIP->__construct('E:\wamp\www\wor...', NULL)
+#2 E:\wamp\www\worldmap\app\Plugin\GeoIP\Model\GeoIpLocation.php(64): Net_GeoIP::getInstance('E:\wamp\www\wor...')
+#3 E:\wamp\www\worldmap\app\Controller\DataController.php(190): GeoIpLocation->find('122.148.126.234')
+#4 [internal function]: DataController->geoIp()
+#5 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#6 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#8 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-05-02 15:11:33 Error: [MissingActionException] Action DataController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'js',
+)
+Request URL: /data/js/vendor/jquery-1.9.1.min.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 15:12:01 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 16:06:08 Error: Fatal Error (1): Call to undefined method DataController::getIp() in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 81]
+2014-05-02 16:06:08 Error: [FatalErrorException] Call to undefined method DataController::getIp()
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=144.76.43.70
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 81)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 81, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\wamp\www\wor...', 81, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 16:06:39 Error: Fatal Error (1): Call to undefined method DataController::getIp() in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 81]
+2014-05-02 16:06:39 Error: [FatalErrorException] Call to undefined method DataController::getIp()
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=144.76.43.70
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 81)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 81, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\wamp\www\wor...', 81, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 16:06:41 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 16:07:21 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'latitude' cannot be null
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=144.76.43.70
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `wo...', Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `wo...')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Track), Array, Array)
+#4 E:\wamp\www\worldmap\app\Model\Track.php(17): Model->save(Array)
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(90): Track->add(Array)
+#6 [internal function]: DataController->push()
+#7 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#8 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-05-02 16:07:49 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'latitude' cannot be null
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=144.76.43.70
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `wo...', Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `wo...')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Track), Array, Array)
+#4 E:\wamp\www\worldmap\app\Model\Track.php(17): Model->save(Array)
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(90): Track->add(Array)
+#6 [internal function]: DataController->push()
+#7 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#8 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-05-02 16:07:50 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 16:08:10 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'latitude' cannot be null
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=144.76.43.70
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `wo...', Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `wo...')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1827): DboSource->create(Object(Track), Array, Array)
+#4 E:\wamp\www\worldmap\app\Model\Track.php(17): Model->save(Array)
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(92): Track->add(Array)
+#6 [internal function]: DataController->push()
+#7 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#8 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-05-02 16:08:13 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 16:09:32 Error: Fatal Error (1): Call to undefined method DataController::clearData() in [E:\wamp\www\worldmap\app\Controller\DataController.php, line 28]
+2014-05-02 16:09:32 Error: [FatalErrorException] Call to undefined method DataController::clearData()
+Request URL: /
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 28)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'E:\wamp\www\wor...', 28, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'E:\wamp\www\wor...', 28, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 18:13:21 Error: [MissingPluginException] Plugin GeoIp could not be found.
+Exception Attributes: array (
+  'plugin' => 'GeoIp',
+)
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=203.35.82.165
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Core\App.php(367): CakePlugin::path('GeoIp')
+#1 E:\wamp\www\worldmap\lib\Cake\Core\App.php(228): App::pluginPath('GeoIp')
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(549): App::path('Model', 'GeoIp')
+#3 [internal function]: App::load('GeoIpLocation')
+#4 E:\wamp\www\worldmap\app\Controller\DataController.php(111): spl_autoload_call('GeoIpLocation')
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(78): DataController->geoIp('203.35.82.165')
+#6 [internal function]: DataController->push()
+#7 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#8 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-05-02 18:13:47 Error: [MissingPluginException] Plugin GeoIp could not be found.
+Exception Attributes: array (
+  'plugin' => 'GeoIp',
+)
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=203.35.82.165
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Core\App.php(367): CakePlugin::path('GeoIp')
+#1 E:\wamp\www\worldmap\lib\Cake\Core\App.php(228): App::pluginPath('GeoIp')
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(549): App::path('Model', 'GeoIp')
+#3 [internal function]: App::load('GeoIpLocation')
+#4 E:\wamp\www\worldmap\app\Controller\DataController.php(111): spl_autoload_call('GeoIpLocation')
+#5 E:\wamp\www\worldmap\app\Controller\DataController.php(78): DataController->geoIp('203.35.82.165')
+#6 [internal function]: DataController->push()
+#7 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#8 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#10 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-05-02 18:13:49 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:38:31 Error: Fatal Error (1): Class 'Net_GeoIP' not found in [E:\wamp\www\worldmap\app\Plugin\GeoIP\Model\GeoIP.php, line 64]
+2014-05-05 10:38:31 Error: [FatalErrorException] Class 'Net_GeoIP' not found
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=22.231.113.64
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-05 10:38:32 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:41:41 Error: Fatal Error (1): Class 'Net_GeoIP' not found in [E:\wamp\www\worldmap\app\Plugin\GeoIP\Model\GeoIP.php, line 64]
+2014-05-05 10:41:41 Error: [FatalErrorException] Class 'Net_GeoIP' not found
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=22.231.113.64
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-05 10:41:45 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:48:48 Error: Fatal Error (1): Class 'Net_GeoIP' not found in [E:\wamp\www\worldmap\app\Plugin\GeoIP\Model\GeoIP.php, line 64]
+2014-05-05 10:48:48 Error: [FatalErrorException] Class 'Net_GeoIP' not found
+Request URL: /data/push?action=visit&source=bookatablev2site.localhost&userip=22.231.113.64
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Net_GeoI...', 'E:\wamp\www\wor...', 64, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-05 10:48:52 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:43:41 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Track.displayed' in 'field list'
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Track`....', Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Track`....', Array, Array)
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Track`....', false)
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2880): DboSource->read(Object(Track), Array)
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#6 E:\wamp\www\worldmap\app\Model\Track.php(77): Model->find('all', Array)
+#7 E:\wamp\www\worldmap\app\Controller\DataController.php(43): Track->latest()
+#8 [internal function]: DataController->track()
+#9 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#10 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#12 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-05-05 15:19:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/tracker.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-05 15:19:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/tracker.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 10:38:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/vendor/mapbox.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 10:38:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/vendor/mapbox.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 10:39:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/images/icons-000000.png
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 10:43:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/images/icons-000000.png
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 10:43:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/images/icons-000000.png
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-07 07:52:03 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-07 08:42:14 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-07 08:43:30 Error: [MissingActionException] Action DataController::data() could not be found.
+Exception Attributes: array (
+  'controller' => 'DataController',
+  'action' => 'data',
+)
+Request URL: /data/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#2 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-07 09:56:20 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 E:\wamp\www\worldmap\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3454): ConnectionManager::getDataSource('default')
+#3 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(1124): Model->setDataSource('default')
+#4 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(3476): Model->setSource('tracks')
+#5 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2880): Model->getDataSource()
+#6 E:\wamp\www\worldmap\lib\Cake\Model\Model.php(2852): Model->_readDataSource('all', Array)
+#7 E:\wamp\www\worldmap\app\Model\Track.php(77): Model->find('all', Array)
+#8 E:\wamp\www\worldmap\app\Controller\DataController.php(43): Track->latest()
+#9 [internal function]: DataController->track()
+#10 E:\wamp\www\worldmap\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DataController), Array)
+#11 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 E:\wamp\www\worldmap\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DataController), Object(CakeRequest), Object(CakeResponse))
+#13 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-09-24 20:55:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/tracker.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-24 20:55:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-24 20:55:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/worlmap.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-24 20:55:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-24 21:03:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/worlmap.js
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-24 21:03:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/data/track
+Stack Trace:
+#0 E:\wamp\www\worldmap\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
