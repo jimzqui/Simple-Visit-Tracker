@@ -1,6 +1,7 @@
 /**
- * World Map
+ * JQ Tracker - World Map v1.0
  * worldmap.js
+ * (c) 2014, Jimbo Quijano
  */
 (function(worldmap, undefined) {
 

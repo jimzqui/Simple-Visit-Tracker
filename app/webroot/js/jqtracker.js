@@ -1,7 +1,7 @@
-/*!
+/**
  * JQ Tracker v1.0
- * (c) 2014 Jimbo Quijano
- * jimboquijano.com
+ * jqtracler.js
+ * (c) 2014, Jimbo Quijano
  */
 
 (function(_jq, undefined) {
