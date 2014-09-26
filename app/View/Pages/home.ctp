@@ -1,4 +1,4 @@
-
+<!-- Simulation Buttons -->
 <button id="button1">Simulate Page Visit - Visitor is 122.148.126.234</button><br>
 <button id="button2">Simulate Page Visit - Visitor is 144.76.43.70</button><br>
 <button id="button3">Simulate Page Visit - Visitor is 203.35.82.165</button><br>

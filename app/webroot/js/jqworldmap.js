@@ -1,12 +1,12 @@
 /**
  * JQ Tracker - World Map v1.0
- * worldmap.js
+ * jqworldmap.js
  * (c) 2014, Jimbo Quijano
  */
-(function(worldmap, undefined) {
+(function(jqworldmap, undefined) {
 
 	// Main object
-	worldmap = {
+	jqworldmap = {
 
 		// Default settings
         defaults: {
@@ -33,7 +33,7 @@
 
         // Initialize
         init: function(options) {
-            var that = worldmap;
+            var that = jqworldmap;
 
             // Construct final settings
             that.settings = $.extend({}, that.defaults, options);
@@ -188,8 +188,8 @@
 		}
 	}
 
-	// Start worldmap
-	google.maps.event.addDomListener(window, 'load', worldmap.init);
+	// Start jqworldmap
+	google.maps.event.addDomListener(window, 'load', jqworldmap.init);
 
-})( window.worldmap = window.worldmap || {});
+})( window.jqworldmap = window.jqworldmap || {});
 
