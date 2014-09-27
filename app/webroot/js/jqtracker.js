@@ -1,5 +1,5 @@
 /**
- * JQ Tracker v1.0
+ * Simple Visit Tracker - JQ Tracker
  * jqtracler.js
  * (c) 2014, Jimbo Quijano
  */

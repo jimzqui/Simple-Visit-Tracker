@@ -38,7 +38,7 @@
 		</div>
 
 		<!-- Main JS -->
-		<?php echo $this->Html->script(array('jqworldmap')); ?>
+		<?php echo $this->Html->script(array('jqworldmap', 'main')); ?>
 
 		<script type="text/javascript">
 		  //<![CDATA[

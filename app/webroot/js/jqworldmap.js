@@ -1,12 +1,12 @@
 /**
- * JQ Tracker - World Map v1.0
+ * Simple Visit Tracker - JQ World Map
  * jqworldmap.js
  * (c) 2014, Jimbo Quijano
  */
 (function(jqworldmap, undefined) {
 
 	// Main object
-	jqworldmap = {
+	jqworldmap.map = {
 
 		// Default settings
         defaults: {
@@ -188,8 +188,4 @@
 		}
 	}
 
-	// Start jqworldmap
-	google.maps.event.addDomListener(window, 'load', jqworldmap.init);
-
 })( window.jqworldmap = window.jqworldmap || {});
-
